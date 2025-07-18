@@ -15,8 +15,12 @@ Usage Instructions: –
 •	File “load_data_aug.ipynb” used to augment data.
 •	File “feature_extract.ipynb” used to extract the feature using proposed transfer learning menthods on augmented data.
 •	File “Chickpeas_Classification.ipynb” used for classification of black and white chickpeas using proposed approach.  
+
 Requirements – Basic Python libraries such as opencv, pandas, matplotlib will be required for data preprocessing. Tensorflow library will be required for feature extraction and model training.
 All the experiments have been carried on 11th Generation Intel Core i7-11600H, 2.9 GHz Base Speed, up to 4.6 GHz Max Turbo Speed, 6 Cores, 12 Threads,18MB Cache16GB (8GB SO-DIMM *2) DDR4 3200MHz with Dedicated NVIDIA GeForce RTX 3050 GDDR6 4GB VRAM and running Windows 10 Home (64bit).
+
 Methodology (if applicable) – All the necessary steps has been well explained in proposed research paper.
+
 Citations (if applicable): - Not Applicable
+
 License & Contribution Guidelines (if applicable):- Not Applicable
